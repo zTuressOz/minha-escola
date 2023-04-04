@@ -6,7 +6,7 @@ body {
     font-family: 'Bebas Neue', sans-serif;
 }
 .cabecalho {
-    background-color: #424E61;
+    background-color: #000000;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -29,7 +29,7 @@ body {
 }
 
 .escola{
-    background-image: linear-gradient(#424E61,#16CFF8);
+    background-image: linear-gradient(#000000,#c81334);
     color:white;
     display: flex;
     justify-content: center;
